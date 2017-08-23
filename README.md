@@ -1,6 +1,8 @@
 # yiguo201
 
-https://guozang201.github.io/yiguo201/
+# local
+chromium-browser . 
 
-https://rawgit.com/guozang201/yiguo201/master/*
+# online
+https://guozang201.github.io/yiguo201/
 
